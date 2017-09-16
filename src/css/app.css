@@ -1,0 +1,21 @@
+body{
+    background-color: red
+}
+
+.main{
+    color: yellow;
+    text-transform: uppercase;
+    font-family: system-ui;
+    letter-spacing: 2rem
+}
+
+.container {
+    border: 3px purple;
+    background: #00FFAA
+}
+
+.container {
+    border: 3px purple;
+    background: #FF009D;
+    color: #806D00
+}
